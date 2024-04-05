@@ -22,7 +22,7 @@ I am a highly motivated robotics enthusiast, currently seeking dynamic opportuni
 
 ### Projects:
 
-- **MATLAB-Simulink Challenge Project:(https://github.com/hgangwar/EV_MPC_main)** Electric Vehicle Energy Optimization with NMPC
+###MATLAB-Simulink Challenge Project:(https://github.com/hgangwar/EV_MPC_main)### Electric Vehicle Energy Optimization with NMPC
 
 - **Digital Twin Projects:**
   - Ford Mustang Mach-E 2021
