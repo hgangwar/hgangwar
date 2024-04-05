@@ -20,11 +20,25 @@ I am a highly motivated robotics enthusiast, currently seeking dynamic opportuni
 - **Deep Learning Libraries:** OpenCV, TensorFlow, PyTorch, Scikit-learn
 - **Frameworks/Technologies:** ROS, Gazebo, Carla, Blender3D, Unreal Engine, Autoware, MATLAB, Simulink, CarSim, Roadrunner, UiPath
 
-## Projects
+### Projects:
+
 - **MATLAB-Simulink Challenge Project:** Electric Vehicle Energy Optimization with NMPC
-- **Digital Twin Projects:** Ford Mustang Mach-E 2021, 7 DOF Panda Franka Robot, 6 DOF Mycobot 280
+  [[Link to Project Repository](https://github.com/hgangwar/EV_MPC_main)]
+
+- **Digital Twin Projects:**
+  - Ford Mustang Mach-E 2021
+    [Link to Mach-E Project Repository]
+  - 7 DOF Panda Franka Robot
+    [Link to Panda Franka Project Repository]
+  - 6 DOF Mycobot 280
+    [Link to Mycobot Project Repository]
+
 - **Driver Monitoring System**
+  [[Link to Driver Monitoring System Repository](https://github.com/hgangwar/Driver-Monitoring-System)]
+
 - **Learning Based Adaptive Model Predictive Control using Reinforcement Learning**
+  [Link to Reinforcement Learning Repository]
+
 
 ## Research Projects
 - **Ensuring Feasibility and Stability of NMPC with Non-Overshooting Constraints**
@@ -35,7 +49,6 @@ I am a highly motivated robotics enthusiast, currently seeking dynamic opportuni
 
 ## Contact Me
 - **Location:** Tempe, Arizona
-- **Phone:** +1 602 412 6885
 - **Email:** hgangwar@asu.edu
 
 Feel free to reach out to discuss collaborations or opportunities!
