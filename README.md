@@ -1,5 +1,4 @@
-### Hi there 👋
-# Harsh Gangwar
+### Hi there, I am Harsh👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hgang-blue)](https://www.linkedin.com/in/hgang/)
 [![Website](https://img.shields.io/badge/Website-hgangwar.github.io-gray)](https://hgangwar.github.io/#/)
