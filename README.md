@@ -22,8 +22,7 @@ I am a highly motivated robotics enthusiast, currently seeking dynamic opportuni
 
 ### Projects:
 
-- **MATLAB-Simulink Challenge Project:** Electric Vehicle Energy Optimization with NMPC
-  [[Link to Project Repository](https://github.com/hgangwar/EV_MPC_main)]
+- **MATLAB-Simulink Challenge Project:(https://github.com/hgangwar/EV_MPC_main)** Electric Vehicle Energy Optimization with NMPC
 
 - **Digital Twin Projects:**
   - Ford Mustang Mach-E 2021
@@ -33,8 +32,8 @@ I am a highly motivated robotics enthusiast, currently seeking dynamic opportuni
   - 6 DOF Mycobot 280
     [Link to Mycobot Project Repository]
 
-- **Driver Monitoring System**
-  [[Link to Driver Monitoring System Repository](https://github.com/hgangwar/Driver-Monitoring-System)]
+- **Driver Monitoring System(https://github.com/hgangwar/Driver-Monitoring-System)**
+  [[Link to Driver Monitoring System Repository]]
 
 - **Learning Based Adaptive Model Predictive Control using Reinforcement Learning**
   [Link to Reinforcement Learning Repository]
