@@ -20,27 +20,18 @@ I am a highly motivated robotics enthusiast, currently seeking dynamic opportuni
 - **Deep Learning Libraries:** OpenCV, TensorFlow, PyTorch, Scikit-learn
 - **Frameworks/Technologies:** ROS, Gazebo, Carla, Blender3D, Unreal Engine, Autoware, MATLAB, Simulink, CarSim, Roadrunner, UiPath
 
-### Projects:
+# Projects #
+### [MATLAB-Simulink Challenge Project](https://github.com/hgangwar/EV_MPC_main) ###
+Electric Vehicle Energy Optimization with NMPC.
 
-###MATLAB-Simulink Challenge Project:(https://github.com/hgangwar/EV_MPC_main)### Electric Vehicle Energy Optimization with NMPC
+### [Digital Twin and Virtual Reality](https://drive.google.com/file/d/16if7GLftrRDi2676rtVdVzksr1iznG_5/view?usp=sharing) ###
+A Digital Twin of the BELIV lab's autonomous vehicle and virtual reality in the sense that the software stack on real vehicle can respond to the virtual objects in the simulator.
 
-- **Digital Twin Projects:**
-  - Ford Mustang Mach-E 2021
-    [Link to Mach-E Project Repository]
-  - 7 DOF Panda Franka Robot
-    [Link to Panda Franka Project Repository]
-  - 6 DOF Mycobot 280
-    [Link to Mycobot Project Repository]
+### [Driver Monitoring System](https://github.com/hgangwar/Driver-Monitoring-System) ###
+Designed and deployed a machine learning-based driver monitoring system. Engineered a streamlined video streaming pipeline for real-time monitoring. Leveraged state-of-the-art CNN architectures for robust classification. Enhances safety across diverse applications.
 
-- **Driver Monitoring System(https://github.com/hgangwar/Driver-Monitoring-System)**
-  [[Link to Driver Monitoring System Repository]]
-
-- **Learning Based Adaptive Model Predictive Control using Reinforcement Learning**
-  [Link to Reinforcement Learning Repository]
-
-
-## Research Projects
-- **Ensuring Feasibility and Stability of NMPC with Non-Overshooting Constraints**
+### [Research Projects: Ensuring Feasibility and Stability of NMPC with Non-Overshooting Constraints](https://github.com/hgangwar/Non-overshooting-MPC) ###
+Under ASU's MORE Program for Summer 2023. Researched safety conditions for finite horizon MPC and nonlinear systems. Evaluated various NMPC approaches, including stochastic and tube-based methods. Calculated positive invariant sets for complex nonlinear dynamics, enhancing system behavior understanding.
  
 ## Professional Experience
 - **Graduate Service Assistant (GSA)**, Arizona State University, Tempe, Arizona (08/2022 – 12/2022)
