@@ -10,9 +10,8 @@ I am a highly motivated robotics enthusiast with a strong background in mechanic
 
 ## Education
 - **Master of Science** in Robotics and Autonomous Systems, Arizona State University, AZ, USA (Expected Graduation: 05/2024)
-  - GPA: 3.96/4.0
 - **Bachelor of Technology** in Mechanical Engineering, Harcourt Butler Technical University, Kanpur, India (Graduation: 05/2019)
-  - Grade: DIV - I
+
 
 ## Technical Skills
 - **Programming:** Python, C/C++, Go, Java, Octave, PLC
@@ -21,11 +20,7 @@ I am a highly motivated robotics enthusiast with a strong background in mechanic
 - **Deep Learning Libraries:** OpenCV, TensorFlow, PyTorch, Scikit-learn
 - **Frameworks/Technologies:** ROS, Gazebo, Carla, Blender3D, Unreal Engine, Autoware, MATLAB, Simulink, CarSim, Roadrunner, UiPath
 
-## Professional Experience
-- **Graduate Service Assistant (GSA)**, Arizona State University, Tempe, Arizona (08/2022 – 12/2022)
-- **Section Head Projects Mechanical**, GET Aditya Birla Groups, Hindalco, Maharashtra (07/2019 – 06/2022)
-
-## Academic Projects
+## Projects
 - **MATLAB-Simulink Challenge Project:** Electric Vehicle Energy Optimization with NMPC
 - **Digital Twin Projects:** Ford Mustang Mach-E 2021, 7 DOF Panda Franka Robot, 6 DOF Mycobot 280
 - **Driver Monitoring System**
@@ -33,11 +28,10 @@ I am a highly motivated robotics enthusiast with a strong background in mechanic
 
 ## Research Projects
 - **Ensuring Feasibility and Stability of NMPC with Non-Overshooting Constraints**
-
-## GitHub Projects
-- [Project 1](link): Description
-- [Project 2](link): Description
-- [Project 3](link): Description
+ 
+## Professional Experience
+- **Graduate Service Assistant (GSA)**, Arizona State University, Tempe, Arizona (08/2022 – 12/2022)
+- **Section Head Projects Mechanical**, GET Aditya Birla Groups, Hindalco, Maharashtra (07/2019 – 06/2022)
 
 ## Contact Me
 - **Location:** Tempe, Arizona
