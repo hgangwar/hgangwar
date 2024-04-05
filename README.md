@@ -6,7 +6,7 @@
 
 
 ## About Me
-I am a highly motivated robotics enthusiast with a strong background in mechanical engineering. Currently pursuing a Master of Science in Robotics and Autonomous Systems at Arizona State University, expected to graduate in May 2024. My academic and professional experiences have equipped me with expertise in various areas such as control theory, deep learning, and robotics.
+I am a highly motivated robotics enthusiast, currently seeking dynamic opportunities in control and autonomous systems. With a focus on robotics model design, manipulator control, and motion planning, I'm eager to bring innovative solutions to real-world challenges. Complementing my ongoing M.S. in Robotics and Autonomous Systems, my GitHub showcases a passion for pushing the boundaries of autonomy and control.
 
 ## Education
 - **Master of Science** in Robotics and Autonomous Systems, Arizona State University, AZ, USA (Expected Graduation: 05/2024)
