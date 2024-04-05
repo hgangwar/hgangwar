@@ -2,7 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hgang-blue)](https://www.linkedin.com/in/hgang/)
 [![Website](https://img.shields.io/badge/Website-hgangwar.github.io-green)](https://hgangwar.github.io/#/)
-[![Email](https://img.shields.io/badge/Email-red)](hgangwar@asu.edu)
+[![Email](https://img.shields.io/badge/Email-hgangwar%40asu.edu-red)](mailto: hgangwar@asu.edu)
+
 
 ## About Me
 I am a highly motivated robotics enthusiast with a strong background in mechanical engineering. Currently pursuing a Master of Science in Robotics and Autonomous Systems at Arizona State University, expected to graduate in May 2024. My academic and professional experiences have equipped me with expertise in various areas such as control theory, deep learning, and robotics.
