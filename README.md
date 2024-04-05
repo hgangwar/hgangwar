@@ -12,7 +12,7 @@ I am a highly motivated robotics enthusiast with a strong background in mechanic
 
 
 ## Technical Skills
-- **Programming:** Python, C/C++, Go, Java, Octave, PLC
+- **Programming:** Python, C/C++, CMake, Go, Java, Octave, PLC
 - **Robotics:** Kinematics, Dynamics of Manipulator Control, Arduino, Beagle Bone, Raspberry Pi
 - **Control Theory:** Optimal Control, Robust Control, Model Predictive Control (MPC), PID Controllers, Adaptive Control
 - **Deep Learning Libraries:** OpenCV, TensorFlow, PyTorch, Scikit-learn
