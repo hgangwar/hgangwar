@@ -2,7 +2,6 @@
 # Harsh Gangwar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hgang-blue)](https://www.linkedin.com/in/hgang/)
-[![GitHub](https://img.shields.io/badge/GitHub-hgangwar-green)](https://github.com/hgangwar)
 [![Website](https://img.shields.io/badge/Website-hgangwar.github.io-gray)](https://hgangwar.github.io/#/)
 
 ## About Me
