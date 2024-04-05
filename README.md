@@ -1,5 +1,5 @@
 ### Hi there, I am Harsh👋
-
+[![Email](https://img.shields.io/badge/Email-hgangwar%40asu.edu-red)](mailto: hgangwar@asu.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hgang-blue)](https://www.linkedin.com/in/hgang/)
 [![Website](https://img.shields.io/badge/Website-hgangwar.github.io-green)](https://hgangwar.github.io/#/)
 
