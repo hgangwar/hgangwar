@@ -21,7 +21,7 @@ I am a highly motivated robotics enthusiast, currently seeking dynamic opportuni
 - **Frameworks/Technologies:** ROS, Gazebo, Carla, Blender3D, Unreal Engine, Autoware, MATLAB, Simulink, CarSim, Roadrunner, UiPath
 
 # Projects #
-### [MATLAB-Simulink Challenge Project-black](https://github.com/hgangwar/EV_MPC_main) ###
+### <font color="black">[MATLAB-Simulink Challenge Project](https://github.com/hgangwar/EV_MPC_main)</font> ###
 Electric Vehicle Energy Optimization with NMPC.
 
 ### [Digital Twin and Virtual Reality](https://drive.google.com/file/d/16if7GLftrRDi2676rtVdVzksr1iznG_5/view?usp=sharing) ###
