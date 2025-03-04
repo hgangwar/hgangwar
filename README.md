@@ -9,8 +9,8 @@
 I am a highly motivated robotics enthusiast, currently seeking dynamic opportunities in control and autonomous systems. With a focus on robotics model design, manipulator control, and motion planning, I'm eager to bring innovative solutions to real-world challenges. Complementing my ongoing M.S. in Robotics and Autonomous Systems, my GitHub showcases a passion for pushing the boundaries of autonomy and control.
 
 ## Education
-- **Master of Science** in Robotics and Autonomous Systems, Arizona State University, AZ, USA (Expected Graduation: 05/2024)
-- **Bachelor of Technology** in Mechanical Engineering, Harcourt Butler Technical University, Kanpur, India (Graduation: 05/2019)
+- **Master of Science** in Robotics and Autonomous Systems, Arizona State University, AZ, USA (Graduated: 05/2024)
+- **Bachelor of Technology** in Mechanical Engineering, Harcourt Butler Technical University, Kanpur, India (Graduated: 05/2019)
 
 
 ## Technical Skills
